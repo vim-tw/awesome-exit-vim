@@ -13,6 +13,8 @@
 1. `:wq!` ---- @chusiang
 1. `:!init 6` ---- @othree
 1. `ZZ` ---- @othree
+1. `!ps aux | grep vim | awk {'print $2'} | xargs kill -9` ---- @othree
+1. `:exit` ---- @chusiang
 
 ----
 
