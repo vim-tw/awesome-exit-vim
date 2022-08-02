@@ -15,6 +15,11 @@
 1. `ZZ` ---- @othree
 1. `!ps aux | grep vim | awk {'print $2'} | xargs kill -9` ---- @othree
 1. `:exit` ---- @chusiang
+1. Ctrl-w-q ---- @Mumuuuu #3
+1. `:qa` ---- @Mumuuuu #4
+1. `:cq` ---- @Mumuuuu #4
+1. `ZQ` ---- @Mumuuuu #5
+1. `:x` ---- @Mumuuuu #7
 
 ----
 
